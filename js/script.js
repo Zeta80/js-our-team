@@ -84,3 +84,4 @@ for (let i = 0; i < ourTeams.length; i++) {
         </div>
     `;
 }
+// JAVASASSONE ヾ(⌐■_■)ノ♪🗿

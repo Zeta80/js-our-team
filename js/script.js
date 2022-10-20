@@ -78,9 +78,9 @@ for (let i = 0; i < ourTeams.length; i++) {
     const currentTeams = ourTeams[i];
     teamsRow.innerHTML += `
         <div class="card">
+            <img src="immagini/img/${currentTeams.foto}" alt=""> 
             <h2>${currentTeams.nome}</h2>
             <p>${currentTeams.ruolo}</p>
-            <img src="immagini/img/${currentTeams.foto}" alt=""> 
         </div>
     `;
 }
